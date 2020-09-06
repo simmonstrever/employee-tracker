@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import TableData from './components/Tabledata';
+import TableData from './components/TableData';
 import Data from './DataSample.json';
 
 
